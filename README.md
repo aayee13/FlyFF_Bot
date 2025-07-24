@@ -42,6 +42,7 @@ project/<br>
 
 - Python 3.8+
 - Windows OS (requires Win32 API)
+- <a href=https://pycharm-community-edition.en.softonic.com/>Pycharm Community Edition</a>
 - Python packages:
   - `opencv-python`
   - `numpy`
